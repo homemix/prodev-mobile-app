@@ -14,7 +14,7 @@ export default function Index() {
 
                 <View style={styles.navGroup}>
                     <Ionicons name="arrow-back" size={25}/>
-                    <Image source={require('@/assets/images/Logo.png')}/>
+                    <Image source={require('@/assets/images/logo.png')}/>
                 </View>
                 <Text style={styles.largeText}>Sign in to your</Text>
                 <Text style={styles.largeText}>Account</Text>
